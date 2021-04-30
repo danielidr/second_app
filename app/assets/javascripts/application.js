@@ -10,6 +10,16 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
+//= require jquery
+//= require jquery_ujs
+//= require jquery.min
+//= require jquery.dropotron.min
+//= require jquery.scrolly.min
+//= require jquery.scrollex.min
+//= require browser.min
+//= require breakpoints.min
+//= require util
+//= require main
 //= require rails-ujs
 //= require activestorage
 //= require turbolinks
